@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\ArrayCreator\bin\Debug\ArrayCreator.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\ArrayCreator\bin\Debug\ArrayCreator.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\ArrayCreator\bin\Debug\ArrayCreator.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\ArrayCreator\obj\Debug\ArrayCreator.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\ArrayCreator\obj\Debug\ArrayCreator.pdb

@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Generic Scale\bin\Debug\Generic Scale.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Generic Scale\bin\Debug\Generic Scale.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Generic Scale\bin\Debug\Generic Scale.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Generic Scale\obj\Debug\Generic Scale.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Generic Scale\obj\Debug\Generic Scale.pdb

@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Box of T\bin\Debug\Box of T.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Box of T\bin\Debug\Box of T.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Box of T\bin\Debug\Box of T.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Box of T\obj\Debug\Box of T.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Box of T\obj\Debug\Box of T.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Generics\Box of T\obj\Debug\Box of T.pdb
