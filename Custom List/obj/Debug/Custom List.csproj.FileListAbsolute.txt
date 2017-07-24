@@ -1,0 +1,5 @@
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Custom List\bin\Debug\Custom List.exe.config
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Custom List\bin\Debug\Custom List.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Custom List\bin\Debug\Custom List.pdb
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Custom List\obj\Debug\Custom List.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Custom List\obj\Debug\Custom List.pdb

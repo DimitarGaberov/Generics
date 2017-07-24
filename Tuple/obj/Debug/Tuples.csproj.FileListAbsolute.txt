@@ -1,0 +1,6 @@
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Tuple\bin\Debug\Tuple.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Tuple\bin\Debug\Tuple.pdb
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Tuple\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Tuple\obj\Debug\Tuple.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Tuple\obj\Debug\Tuple.pdb

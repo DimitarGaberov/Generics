@@ -1,0 +1,6 @@
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Generic Box\bin\Debug\Generic Box.exe.config
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Generic Box\bin\Debug\Generic Box.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Generic Box\bin\Debug\Generic Box.pdb
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Generic Box\obj\Debug\Generic Box.csprojResolveAssemblyReference.cache
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Generic Box\obj\Debug\Generic Box.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Generics\Generic Box\obj\Debug\Generic Box.pdb
